@@ -1,0 +1,9 @@
+export const TODOS_LOADING = 'TODOS_LOADING';
+export const TODOS_LOADED = 'TODOS_LOADED';
+export const TODOS_ERR = 'TODOS_ERR';
+
+export const ADD_TODO = 'ADD_TODO';
+export const DELETE_TODO = 'DELETE_TODO';
+export const TOGGLE_TODO_COMPLETED = 'TOGGLE_TODO_COMPLETED';
+export const CLEAR_COMPLETED_TODOS = 'CLEAR_COMPLETED_TODOS';
+export const REORDER_TODOS = 'REORDER_TODOS';
